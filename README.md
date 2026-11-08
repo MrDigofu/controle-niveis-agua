@@ -48,7 +48,3 @@ controle-niveis-agua/
 ## Funcionamento
 
 O programa armazena as mensagens em uma lista. A função `definir_cor()` recebe o número do nível e retorna a cor correspondente. Em seguida, um laço `for` percorre a lista e apresenta cada mensagem colorida no terminal. O estilo é restaurado após cada mensagem com `Style.RESET_ALL`.
-
-## Observação
-
-Esta é uma simulação didática com mensagens predefinidas no código. Não realiza leitura de sensores nem monitora um reservatório real.
